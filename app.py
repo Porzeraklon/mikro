@@ -1,7 +1,7 @@
 import json
 import random
 from flask import Flask, render_template, request
-#test
+
 app = Flask(__name__)
 
 @app.route('/mikro', methods=['GET', 'POST'])
