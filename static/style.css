@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+form {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 60vw;
+}
+
+h2 {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+div {
+    margin-bottom: 15px;
+}
+
+input[type="radio"] {
+    margin-right: 10px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.result {
+    font-weight: bold;
+    color: #333;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #e8f5e9;
+    border: 1px solid #c8e6c9;
+    border-radius: 6px;
+}
+
+/* Całkowicie ukrywa radio */
+.visually-hidden {
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/* Styl kontenera odpowiedzi */
+.option-label {
+    display: block;
+    margin-bottom: 16px; /* odstęp między odpowiedziami */
+    cursor: pointer;
+}
+
+/* Styl samej odpowiedzi */
+.option {
+    background-color: #f9f9f9;
+    padding: 16px 20px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    transition: background-color 0.2s, border-color 0.2s;
+}
+
+/* Hover efekt */
+.option-label:hover .option {
+    background-color: #e6f0ff;
+    border-color: #007bff;
+}

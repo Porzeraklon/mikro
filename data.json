@@ -1,0 +1,409 @@
+[
+  {
+    "question": "Krzywa popytu na wyroby firmy działającej w warunkach konkurencji monopolistycznej jest:",
+    "type": "closed",
+    "options": {
+      "a": "linią o ujemnym nachyleniu",
+      "b": "linią o dodatnim nachyleniu",
+      "c": "linią pionową",
+      "d": "linią poziomą"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Jeżeli wzrasta podaż i popyt, wówczas",
+    "type": "closed",
+    "options": {
+      "a": "ilość równowagi spadnie, ale cena równowagi może albo wrosnąć, albo obniży się, albo też pozostać niezmieniona",
+      "b": "cena równowagi wrośnie, ale ilość równowagi może albo wrosnąć albo ulec spadkowi, lub pozostać bez zmian",
+      "c": "ilość równowagi rośnie, ale cena równowagi może albo wrosnąć, albo obniży się, albo też pozostać niezmieniona",
+      "d": "cena równowagi spadnie, ale ilość równowagi może albo wrosnąć, albo spaść, albo też pozostać niezmieniona"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Linia budżetowa to:",
+    "type": "closed",
+    "options": {
+      "a": "graficzne przedstawienie możliwej kombinacji konsumpcji dwóch dóbr ze względu na dochód konsumenta",
+      "b": "graficzne przedstawienie możliwej kombinacji konsumpcji dwóch dóbr ze względu na preferencje",
+      "c": "graficzne przedstawienie najbardziej pożądanej kombinacji konsumpcji dwóch dóbr",
+      "d": "graficzne przedstawienie możliwej kombinacji konsumpcji dwóch dóbr ze względu na dochód konsumenta i poziom cen tych dóbr"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Im więcej firm wchodzi w skład porozumienia monopolistycznego (np. kartelu), tym:",
+    "type": "closed",
+    "options": {
+      "a": "niższa musi być cena wyrobów oferowanych przez firmy wchodzące w skład kartelu",
+      "b": "wszystkie odpowiedzi są prawdziwe",
+      "c": "bardziej nietrwałe jest porozumienie",
+      "d": "bardziej trwałe jest porozumienie"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Przedsiębiorstwo wolnokonkurencyjne będzie minimalizować stratę w okresie krótkim, gdy:",
+    "type": "closed",
+    "options": {
+      "a": "koszt krańcowy jest równy utargowi krańcowemu oraz jest niższy niż koszt przeciętny",
+      "b": "koszt krańcowy jest równy kosztowi przeciętnemu",
+      "c": "koszt krańcowy jest równy przeciętnemu kosztowi zmiennemu",
+      "d": "koszt krańcowy jest równy cenie oraz koszt krańcowy rośnie wraz ze wzrostem produkcji"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Gdy wzrasta cena atramentu, wówczas:",
+    "type": "closed",
+    "options": {
+      "a": "popyt na wieczne pióra spada",
+      "b": "wielkość popytu na wieczne pióra spada",
+      "c": "obniża się podaż wiecznych piór",
+      "d": "cena wiecznych piór wzrasta"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Przedsiębiorstwo wolnokonkurencyjne ma do wyboru zakup dwóch maszyn. Koszt zakupu jednej maszyny wynosi 10000 zł, natomiast koszt zakupu drugiej maszyny wynosi 9 000 zł. Koszt przeciętny zmienny wyprodukowania jednej sztuki wyrobu na pierwszej maszynie wynosi 10 zł, zaś na drugiej maszynie 12 zł. Cena rynkowa wyrobu wynosi 20 zł. Jeśli przedsiębiorstwo to chce wyprodukować 10000 sztuk wyrobu po jak najniższych kosztach, to którą maszynę powinno kupić?",
+    "type": "closed",
+    "options": {
+      "a": "powinno kupić maszynę nr 2 bo jest tańsza",
+      "b": "powinno kupić maszynę nr 1 bo przy założonej wielkości produkcji koszty całkowite są niższe",
+      "c": "powinno kupić maszynę nr 2 bo koszty stałe są niższe",
+      "d": "powinno kupić maszynę nr 1 bo w drugim okresie to się opłaca"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Jeżeli cena=12, koszt całkowity=55000, koszt przeciętny=11, koszt przeciętny zmienny=10, koszt krańcowy=12 to przedsiębiorstwo powinno:",
+    "type": "closed",
+    "options": {
+      "a": "nic nie zmieniać",
+      "b": "zwiększyć produkcję",
+      "c": "obniżyć produkcję",
+      "d": "przestać produkować"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "W celu maksymalizacji zysku całkowitego przedsiębiorstwo wolnokonkurencyjne będzie zmniejszało swoją produkcję, gdy:",
+    "type": "closed",
+    "options": {
+      "a": "cena jest równa utargowi krańcowemu",
+      "b": "koszt krańcowy jest większy od kosztu przeciętnego",
+      "c": "koszt krańcowy jest mniejszy od utargu całkowitego",
+      "d": "żadna z powyższych odpowiedzi nie jest dobra"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Przedsiębiorstwo monopolistyczne:",
+    "type": "closed",
+    "options": {
+      "a": "jest cenobiorcą",
+      "b": "zawsze osiąga zysk",
+      "c": "może osiągać zysk nadzwyczajny zarówno w okresie krótkim jak i długim",
+      "d": "żadne z powyższych"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Jeżeli konsumpcja danego dobra rośnie wraz ze wzrostem ceny to jest to:",
+    "type": "closed",
+    "options": {
+      "a": "dobro niższego rzędu",
+      "b": "dobro luksusowe",
+      "c": "dobro nominalne",
+      "d": "dobro wyższego rzędu"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Krzywa obojętności to:",
+    "type": "closed",
+    "options": {
+      "a": "graficzne przedstawienie najmniej pożądanej kombinacji dwóch dóbr",
+      "b": "graficzne przedstawienie kombinacji konsumpcji dwóch dóbr dających taką samą użyteczność całkowitą",
+      "c": "graficzne przedstawienie najbardziej pożądanej kombinacji dwóch dóbr",
+      "d": "graficzne przedstawienie kombinacji dwóch dóbr"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Prawo popytu mówi, że:",
+    "type": "closed",
+    "options": {
+      "a": "występuje bezpośrednia zależność między ceną a wielkością podaży",
+      "b": "nie występuje odwrotna zależność pomiędzy ceną a wielkością popytu",
+      "c": "jeżeli obniża się podaż, rośnie cena",
+      "d": "wszelka zmiana ceny spowodowana jest zmianą popytu"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Społeczny koszt monopolu jest wynikiem tego, że następuje przesunięcie:",
+    "type": "closed",
+    "options": {
+      "a": "części nadwyżki konsumenta do monopolistycznego przedsiębiorstwa, przy jednoczesnym zmniejszeniu się sumy tych nadwyżek",
+      "b": "części nadwyżki konsumenta do monopolistycznego przedsiębiorstwa, a ich suma pozostaje niezmieniona",
+      "c": "następuje przesunięcie części nadwyżki monopolistycznego przedsiębiorstwa do konsumenta, a ich suma pozostaje niezmieniona",
+      "d": "części nadwyżki monopolistycznego przedsiębiorstwa do konsumenta, przy jednoczesnym zmniejszeniu się sumy tych nadwyżek"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Wiedza różni się od innych czynników produkcji",
+    "type": "closed",
+    "options": {
+      "a": "nie",
+      "b": "tak, gdyż im więcej się jej używa tym więcej jej przybywa",
+      "c": "nie, gdyż tej samej wiedzy nie można użyć jednocześnie w kilku miejscach i w tym samym czasie",
+      "d": "tak, ponieważ jest niezwykle trudnodostępna"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Firma monopolistyczna zwiększa swoją produkcję w celu maksymalizacji zysku do momentu, gdy",
+    "type": "closed",
+    "options": {
+      "a": "MR=MC",
+      "b": "P=MR=MC",
+      "c": "MPRM=KC",
+      "d": "P=MC"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Obfity zbiór kawy w Kolumbii wywoła:",
+    "type": "closed",
+    "options": {
+      "a": "spadek ceny równowagi kawy",
+      "b": "wzrost ilości równowagi kawy",
+      "c": "wzrost podaży kawy",
+      "d": "wszystkie powyższe zjawiska"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Firmy działające na rynku oligopolistycznym",
+    "type": "closed",
+    "options": {
+      "a": "dążą do maksymalizacji zysku całkowitego i nie dostosowują się do zachowań konkurentów",
+      "b": "dążą do maksymalizacji produkcji",
+      "c": "muszą reagować na zachowania konkurentów",
+      "d": "żadna z powyższych odpowiedzi nie jest dobra"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Przy danej cenie, jeżeli wielkość popytu przeważa wielkość podaży, wówczas:",
+    "type": "closed",
+    "options": {
+      "a": "popyt obniży się",
+      "b": "występuje nadwyżka",
+      "c": "cena wzrośnie",
+      "d": "wielkość podaży ulegnie obniżce"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Dla dóbr Giffena efekt dochodowy jest:",
+    "type": "closed",
+    "options": {
+      "a": "ujemny i słabszy niż efekt substytucyjny",
+      "b": "dodatni i silniejszy niż efekt substytucyjny",
+      "c": "ujemny i silniejszy niż efekt substytucyjny",
+      "d": "ujemny i działa w tym samym kierunku co efekt substytucyjny"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "W plemieniu zamieszkującym tropikalną wyspę jest 10 osób, które zajmują się zrywaniem orzechów kokosowych lub zbieraniem strusich jaj. Bez względu na liczbę zatrudnionych przy danym zajęciu, jeden zatrudniony może zerwać 10 orzechów albo zebrać 10 jaj dziennie. Jakie są dzienne możliwości produkcyjne plemienia?",
+    "type": "closed",
+    "options": {
+      "a": "50 orzechów lub 50 jaj",
+      "b": "50 orzechów i 50 jaj",
+      "c": "10 orzechów lub 10 jaj",
+      "d": "10 orzechów i 10 jaj"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Przedsiębiorstwo wolnokonkurencyjne będzie minimalizować stratę w okresie krótkim, gdy:",
+    "type": "closed",
+    "options": {
+      "a": "koszt krańcowy jest równy utargowi krańcowemu oraz jest niższy niż koszt przeciętny",
+      "b": "koszt krańcowy jest równy kosztowi przeciętnemu",
+      "c": "koszt krańcowy jest równy przeciętnemu kosztowi zmiennemu",
+      "d": "koszt krańcowy jest równy cenie oraz koszt krańcowy rośnie wraz ze wzrostem produkcji"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Jeżeli wzrasta podaż i popyt, wówczas",
+    "type": "closed",
+    "options": {
+      "a": "ilość równowagi spadnie, ale cena równowagi może albo wrosnąć, albo obniży się, albo też pozostać niezmieniona",
+      "b": "cena równowagi wrośnie, ale ilość równowagi może albo wrosnąć albo ulec spadkowi, lub pozostać bez zmian",
+      "c": "ilość równowagi wrośnie, ale cena równowagi może albo wrosnąć, albo obniży się, albo też pozostać niezmieniona",
+      "d": "cena równowagi spadnie, ale ilość równowagi może albo wrosnąć, albo spaść, albo też pozostać niezmieniona"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Społeczny koszt monopolu jest wynikiem tego, że następuje przesunięcie:",
+    "type": "closed",
+    "options": {
+      "a": "części nadwyżki konsumenta do monopolistycznego przedsiębiorstwa, przy jednoczesnym zmniejszeniu się sumy tych nadwyżek",
+      "b": "części nadwyżki konsumenta do monopolistycznego przedsiębiorstwa, a ich suma pozostaje niezmieniona",
+      "c": "następuje przesunięcie części nadwyżki monopolistycznego przedsiębiorstwa do konsumenta, a ich suma pozostaje niezmieniona",
+      "d": "części nadwyżki monopolistycznego przedsiębiorstwa do konsumenta, przy jednoczesnym zmniejszeniu się sumy tych nadwyżek"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Optymalna kombinacja czynników wytwórczych znajduje się:",
+    "type": "closed",
+    "options": {
+      "a": "w punkcie styczności krzywej kosztu całkowitego z krzywą kosztu stałego",
+      "b": "w punkcie styczności izokwanty z krzywą kosztu całkowitego",
+      "c": "w punkcie styczności linii jednakowego produktu z linią jednakowego kosztu",
+      "d": "w punkcie przecięcia izokwany z izokosztą"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Przedsiębiorstwo wolnokonkurencyjne w okresie krótkim będzie produkować nawet, gdy ponosi straty, jeśli:",
+    "type": "closed",
+    "options": {
+      "a": "koszt krańcowy maleje wraz ze wzrostem produkcji",
+      "b": "koszt przeciętny jest niższy od rynkowej ceny produktu",
+      "c": "koszt krańcowy rośnie wraz ze wzrostem produkcji",
+      "d": "żadna z powyższych odpowiedzi nie jest dobra"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "W systemie rynku konkurencyjnego, cena równowagi i ilość są przede wszystkim określone przez:",
+    "type": "closed",
+    "options": {
+      "a": "wielkość podaży",
+      "b": "wzajemne oddziaływanie wielkości podaży i wielkości popytu",
+      "c": "popyt",
+      "d": "wzajemne oddziaływanie popytu i podaży"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Koszt krańcowy to:",
+    "type": "closed",
+    "options": {
+      "a": "stosunek kosztu całkowitego do kosztu produkcji",
+      "b": "stosunek kosztu zmiennego do wielkości produkcji",
+      "c": "dochód ze sprzedaży jednej jednostki produktu",
+      "d": "żadna z powyższych odpowiedzi nie jest dobra"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Łączna produkcja firm działających w warunkach oligopolu w porównaniu z czystym monopolem jest:",
+    "type": "closed",
+    "options": {
+      "a": "niższa",
+      "b": "wyższa",
+      "c": "równa podaży gałęzi wolnokonkurencyjnej",
+      "d": "żadna z powyższych odpowiedzi nie jest dobra"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Które z następujących zjawisk spowoduje zmiany wielkości popytu na iPhone?",
+    "type": "closed",
+    "options": {
+      "a": "zmiana dochodów konsumentów",
+      "b": "zmiana cen telefonów Samsunga",
+      "c": "zmiana gustu konsumentów",
+      "d": "zmiana podaży iPhoneów"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Które z poniższych zdarzeń spowoduje zmniejszenie przeciętnych kosztów stałych:",
+    "type": "closed",
+    "options": {
+      "a": "wzrost wielkości produkcji",
+      "b": "wzrost kosztów całkowitych",
+      "c": "spadek wielkości produkcji",
+      "d": "żadna z powyższych odpowiedzi nie jest dobra"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Porozumienie monopolistyczne jest zawsze korzystne:",
+    "type": "closed",
+    "options": {
+      "a": "dla nabywców",
+      "b": "dla firm, które uczestniczą w tym porozumieniu",
+      "c": "dla konsumentów i firm",
+      "d": "żadna z powyższych odpowiedzi nie jest dobra"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Dobra niższego rzędu charakteryzują się:",
+    "type": "closed",
+    "options": {
+      "a": "ujemnym efektem substytucyjnym mniejszym od dodatniego efektu dochodowego",
+      "b": "ujemnym efektem substytucyjnym większym od ujemnego efektu dochodowego",
+      "c": "ujemnym efektem substytucyjnym większym od dodatniego efektu dochodowego",
+      "d": "ujemnym efektem substytucyjnym mniejszym od ujemnego efektu dochodowego"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "W warunkach konkurencji doskonałej celem działalności przedsiębiorstwa jest:",
+    "type": "closed",
+    "options": {
+      "a": "maksymalizacja zysku jednostkowego",
+      "b": "maksymalizacja zysku całkowitego",
+      "c": "maksymalizacja przychodów ze sprzedaży",
+      "d": "żadna z powyższych odpowiedzi nie jest prawidłowa"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Wzrost rynkowej ceny produktów w warunkach wolnej konkurencji prowadzi do:",
+    "type": "closed",
+    "options": {
+      "a": "zmniejszenia kosztów funkcjonowania przedsiębiorstw",
+      "b": "wzrostu produkcji i zysku całkowitego",
+      "c": "zmniejszenia zysku całkowitego w optimum ekonomicznym",
+      "d": "żadna z powyższych odpowiedzi nie jest dobra"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Główną metodą zwiększania udziału w rynku przez firmy działające w ramach konkurencji monopolistycznej jest:",
+    "type": "closed",
+    "options": {
+      "a": "tworzenie barier instytucjonalnych wejścia na rynek innym firmom",
+      "b": "konkurencja niecenowa (np. różnicowanie produktów, popularyzacja marki rynkowej)",
+      "c": "obniżka cen produktów",
+      "d": "żadna z powyższych odpowiedzi nie jest dobra"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Krańcowa stopa substytucji kapitału pracą:",
+    "type": "closed",
+    "options": {
+      "a": "jest równa stosunkowi krańcowego produktu kapitału do krańcowego produktu pracy",
+      "b": "informuje, w jakiej relacji przedsiębiorstwo zastępuje nakłady pracy nakładami kapitału przy zachowaniu tego samego poziomu produkcji",
+      "c": "jest równa stosunkowi ceny pracy do ceny kapitału",
+      "d": "informuje, w jakiej relacji przedsiębiorstwo zastępuje nakłady kapitału nakładami pracy przy zachowaniu tego samego poziomu produkcji"
+    },
+    "answer": "d"
+  }
+]
