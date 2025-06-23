@@ -18,7 +18,7 @@ getQuestions("data.json")
 @app.route('/mikro', methods=['GET', 'POST'])
 def index():
     
-    if request.method == 'GET' and not request.form.get('summary'):
+    if request.method == 'GET':
         result = ""
         answered = False
         question["number"] = random.randint(0, len(closed) - 1)
