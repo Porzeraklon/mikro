@@ -405,5 +405,236 @@
       "d": "informuje, w jakiej relacji przedsiębiorstwo zastępuje nakłady kapitału nakładami pracy przy zachowaniu tego samego poziomu produkcji"
     },
     "answer": "d"
+  },
+  {
+  "question": "Wyobraź sobie KMP przy następujących założeniach. Pewna mała gospodarka na egzotycznej wyspie może przeznaczać te same zasoby na produkcję dwóch dóbr: oś X - produkcja kokosów lub oś Y - produkcja ananasów. Jeśli na wyspie wykarczowane zostaną nowe powierzchnie pod uprawę krzaków ananasowych, to KMP:",
+  "type": "closed",
+  "options": {
+    "a": "zmieni swoje położenie (do prawej)",
+    "b": "zmieni swoje położenie (do lewej)",
+    "c": "zmieni swoje nachylenie",
+    "d": "KMP się nie zmieni"
+  },
+  "answer": "a"
+  },
+  {
+    "question": "Czynnikiem produkcji może być:",
+    "type": "closed",
+    "options": {
+      "a": "Zarówno praca wykonywana przez pracownika, plac wynajęty pod parking jak i energia elektryczna oraz Internet",
+      "b": "Tylko praca i kapitał",
+      "c": "Tylko ziemia, kapitał i informacja",
+      "d": "Żadna z powyższych"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Jeżeli poziom cen biletów na przejazdy środkami komunikacji miejskiej obniżył się dwukrotnie, to krzywa popytu na samochody:",
+    "type": "closed",
+    "options": {
+      "a": "przesunie się w prawo",
+      "b": "przesunie się w lewo",
+      "c": "nastąpi przesunięcie po krzywej w dół",
+      "d": "nastąpi przesunięcie po krzywej w górę"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Uzupełnij poprawnie zdanie: Konsument osiąga maksymalną użyteczność w punkcie, w którym linia budżetowa ........................... z krzywą obojętności:",
+    "type": "closed",
+    "options": {
+      "a": "krzyżuje się",
+      "b": "przecina się",
+      "c": "styka się",
+      "d": "mija się"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Wraz ze wzrostem rozmiarów produkcji przeciętny koszt stały (AFC):",
+    "type": "closed",
+    "options": {
+      "a": "rośnie",
+      "b": "maleje",
+      "c": "pozostaje bez zmian",
+      "d": "Żadna z powyższych odpowiedzi nie jest prawidłowa"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Obieg okrężny produktów związany jest z:",
+    "type": "closed",
+    "options": {
+      "a": "kręgiem wewnętrznym",
+      "b": "kręgiem zewnętrznym",
+      "c": "zasobami produktów",
+      "d": "żadna odpowiedź nie jest właściwa"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Efekt substytucji i efekt dochodowy wyjaśniają:",
+    "type": "closed",
+    "options": {
+      "a": "dlaczego krzywa popytu jest nachylona ujemnie",
+      "b": "dlaczego wielkość popyt wzrasta, gdy maleje cena",
+      "c": "prawo popytu",
+      "d": "Wszystkie odpowiedzi są prawidłowe"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Współczynnik równomierności dochodu Ginniego oparty jest na:",
+    "type": "closed",
+    "options": {
+      "a": "Krzywej Lorenza",
+      "b": "Współczynniku zmienności",
+      "c": "Współczynniku Pearsona",
+      "d": "Żadna odpowiedź nie jest właściwa"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Przedsiębiorca na rynku konkurencji monopolistycznej osiąga zysk, gdy spełniony jest warunek:",
+    "type": "closed",
+    "options": {
+      "a": "MC=MR=ATC",
+      "b": "MC=MR i ATC>D",
+      "c": "MC=MR i ATC<D",
+      "d": "Żadna z powyższych"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Porozumienia zawierane między oligopolistami:",
+    "type": "closed",
+    "options": {
+      "a": "Zawsze są niezgodne z prawem i niekorzystne dla konkurencji",
+      "b": "Mogą być niezgodne z prawem, ale korzystne dla konkurencji",
+      "c": "Mogą być korzystne dla konkurencji",
+      "d": "żadna z powyższych"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Przykładami przedsiębiorstw działających w warunkach oligopolu są:",
+    "type": "closed",
+    "options": {
+      "a": "cukrownie i przemysł samochodowy",
+      "b": "zorganizowana produkcja gładzi szpachlowej",
+      "c": "usługi fryzjerskie oraz gastronomia w ujęciu ogólnokrajowym",
+      "d": "Żadna z powyższych"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Koszt, który stanowi równowartość dochodów, które dany czynnik mógłby przynieść, gdyby wykorzystano go w innym, możliwie najlepszym zastosowaniu określany jest:",
+    "type": "closed",
+    "options": {
+      "a": "Kosztem księgowym",
+      "b": "Kosztem ekonomicznym",
+      "c": "Kosztem alternatywnym",
+      "d": "Żadna odpowiedź nie jest właściwa"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Zmiana ceny może spowodować:",
+    "type": "closed",
+    "options": {
+      "a": "przesunięcie wzdłuż danej krzywej popytu",
+      "b": "przesunięcie wzdłuż danej krzywej podaży",
+      "c": "zmianę wielkości podaży",
+      "d": "Wszystkie powyższe odpowiedzi są prawidłowe"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Na rynku doskonale konkurencyjnym punkt równowagi E w przedsiębiorstwie w krótkim okresie zajdzie dla Q, gdy:",
+    "type": "closed",
+    "options": {
+      "a": "MC=MR i MC rośnie",
+      "b": "P=MR i MR rośnie",
+      "c": "MC=D i MC rośnie",
+      "d": "Żadna z powyższych"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Co stanie się z linią ograniczenia budżetowego konsumenta, gdy podwoi się cena dobra X, a cena dobra Y zwiększy się trzykrotnie:",
+    "type": "closed",
+    "options": {
+      "a": "przesunie się równolegle do dołu",
+      "b": "przesunie się równolegle do góry",
+      "c": "zmniejszy się jej nachylenie",
+      "d": "zwiększy się jej nachylenie"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Produkt przeciętny to:",
+    "type": "closed",
+    "options": {
+      "a": "stosunek produktu całkowitego do wielkości produkcji",
+      "b": "stosunek przyrostu produktu całkowitego do przyrostu nakładów czynnika zmiennego",
+      "c": "stosunek produktu całkowitego do nakładów czynnika zmiennego",
+      "d": "przychód ze sprzedaży jednej jednostki wyrobu"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Potok usług, dostarczanych przez dany składnik aktywów w ciągu pewnego okresu określany jest jako:",
+    "type": "closed",
+    "options": {
+      "a": "zasób",
+      "b": "strumień",
+      "c": "produkt krańcowy",
+      "d": "żadna odpowiedź nie jest właściwa"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Krańcowa stopa transformacji - wskaż zdanie fałszywe:",
+    "type": "closed",
+    "options": {
+      "a": "Prawie zawsze jest stała",
+      "b": "Wpływa na kształt krzywej możliwości produkcyjnych",
+      "c": "Może być rosnąca",
+      "d": "Określa z ilu dóbr jednego gatunku rezygnujemy, aby zwiększyć produkcję innego dobra (analizowanego na KMP) o jedną jednostkę"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Zbiór wszystkich technicznie wydajnych kombinacji czynników produkcji, które pozwalają wytworzyć taką samą ilość danego produktu określana jest:",
+    "type": "closed",
+    "options": {
+      "a": "Izokwantą",
+      "b": "Izokosztą",
+      "c": "Produktem przeciętnym",
+      "d": "Żadna odpowiedź nie jest właściwa"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Monopolista posiada:",
+    "type": "closed",
+    "options": {
+      "a": "jednego konkurenta",
+      "b": "dwóch konkurentów",
+      "c": "trzech konkurentów",
+      "d": "żadna z odpowiedzi"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Funkcja użyteczności Piotra dana jest wzorem: Użc(x,y) = X × Y, gdzie X to konsumpcja jabłek, a Y to konsumpcja bananów. Piotr ma 40 jabłek i 10 bananów. Wskaż kombinacje (X, Y), która przyniosą Piotrowi taką samą użyteczność:",
+    "type": "closed",
+    "options": {
+      "a": "(2, 100)",
+      "b": "(100,1)",
+      "c": "(2, 50)",
+      "d": "(50,8)"
+    },
+    "answer": "d"
   }
 ]
