@@ -2,26 +2,29 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f9;
     margin: 0;
-    padding: 0;
+    padding: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    min-height: 100vh;
+    box-sizing: border-box;
 }
 
 form {
     background-color: #ffffff;
-    padding: 30px;
+    padding: 20px;
     border-radius: 12px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
     width: 100%;
-    max-width: 60vw;
+    max-width: 500px; /* lepsza maksymalna szerokość */
+    box-sizing: border-box;
 }
 
 h2 {
-    font-size: 20px;
+    font-size: 1.25rem;
     color: #333;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 div {
@@ -36,10 +39,12 @@ button {
     background-color: #4CAF50;
     color: white;
     border: none;
-    padding: 10px 16px;
+    padding: 12px 20px;
     border-radius: 6px;
     cursor: pointer;
-    font-size: 16px;
+    font-size: 1rem;
+    width: 100%;
+    box-sizing: border-box;
 }
 
 button:hover {
@@ -54,9 +59,10 @@ button:hover {
     background-color: #e8f5e9;
     border: 1px solid #c8e6c9;
     border-radius: 6px;
+    text-align: center;
 }
 
-/* Całkowicie ukrywa radio */
+/* Ukrycie radia */
 .visually-hidden {
     position: absolute;
     opacity: 0;
@@ -67,24 +73,42 @@ button:hover {
     border: 0;
 }
 
-/* Styl kontenera odpowiedzi */
+/* Styl etykiety */
 .option-label {
     display: block;
-    margin-bottom: 16px; /* odstęp między odpowiedziami */
+    margin-bottom: 12px;
     cursor: pointer;
 }
 
-/* Styl samej odpowiedzi */
+/* Styl odpowiedzi */
 .option {
     background-color: #f9f9f9;
-    padding: 16px 20px;
+    padding: 14px 16px;
     border: 2px solid #ccc;
     border-radius: 8px;
     transition: background-color 0.2s, border-color 0.2s;
+    font-size: 1rem;
 }
 
 /* Hover efekt */
 .option-label:hover .option {
     background-color: #e6f0ff;
     border-color: #007bff;
+}
+
+/* Responsywność */
+@media (max-width: 480px) {
+    h2 {
+        font-size: 1.1rem;
+    }
+
+    .option {
+        padding: 12px 14px;
+        font-size: 0.95rem;
+    }
+
+    button {
+        padding: 10px 16px;
+        font-size: 0.95rem;
+    }
 }
