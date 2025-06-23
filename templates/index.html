@@ -9,37 +9,37 @@
 <body>
     {% if answered == False %}
     <form method="POST">
-        <div><h2>{{ question["content"] }}</h2></div>
+        <div><h2>{{ question["question"] }}</h2></div>
 
         <label class="option-label">
             <input type="radio" name="answer" value="a" class="visually-hidden" onchange="this.form.submit()">
-            <div class="option">a) {{ question["a"] }}</div>
+            <div class="option">a) {{ question["options"]["a"] }}</div>
         </label>
 
         <label class="option-label">
             <input type="radio" name="answer" value="b" class="visually-hidden" onchange="this.form.submit()">
-            <div class="option">b) {{ question["b"] }}</div>
+            <div class="option">b) {{ question["options"]["b"] }}</div>
         </label>
 
         <label class="option-label">
             <input type="radio" name="answer" value="c" class="visually-hidden" onchange="this.form.submit()">
-            <div class="option">c) {{ question["c"] }}</div>
+            <div class="option">c) {{ question["options"]["c"] }}</div>
         </label>
 
         <label class="option-label">
             <input type="radio" name="answer" value="d" class="visually-hidden" onchange="this.form.submit()">
-            <div class="option">d) {{ question["d"] }}</div>
+            <div class="option">d) {{ question["options"]["d"] }}</div>
         </label>
     </form>
     {% endif %}
 
     {% if answered == True %}
     <form>
-        <div><h2>{{ question["content"] }}</h2></div>
-        <div class="option">a) {{ question["a"] }}</div>
-        <div class="option">b) {{ question["b"] }}</div>
-        <div class="option">c) {{ question["c"] }}</div>
-        <div class="option">d) {{ question["d"] }}</div>
+        <div><h2>{{ question["question"] }}</h2></div>
+        <div class="option">a) {{ question["options"]["a"] }}</div>
+        <div class="option">b) {{ question["options"]["b"] }}</div>
+        <div class="option">c) {{ question["options"]["c"] }}</div>
+        <div class="option">d) {{ question["options"]["d"] }}</div>
         <div>{{ result }}</div>
         <button type="submit">Kolejne pytanie</button>
     </form>

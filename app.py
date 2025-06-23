@@ -1,8 +1,9 @@
 import json
 import random
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, session
 
 app = Flask(__name__)
+app.secret_key = "b0d9cbf5d8afe95b7d45fa08cd61d2fc4c94c2b443c5734710f1f42a340ad355"
 
 closed = []
 question = {}
@@ -21,22 +22,18 @@ def index():
     if request.method == 'GET':
         result = ""
         answered = False
-        question["number"] = random.randint(0, len(closed) - 1)
-        question["content"] = closed[question["number"]]["question"]
-        question["a"] = closed[question["number"]]["options"]["a"]
-        question["b"] = closed[question["number"]]["options"]["b"]
-        question["c"] = closed[question["number"]]["options"]["c"]
-        question["d"] = closed[question["number"]]["options"]["d"]
-        question["answer"] = closed[question["number"]]["answer"]
+        question = random.choice(closed)
+        session["question"] = question
     
     if request.method == 'POST':
         answered = True
         answer = request.form.get('answer')
+        question = session.get("question")
         correct = question["answer"]
         if answer == correct:
             result = "Poprawna odpowiedz!"
         else:
-            result = "Błąd! Poprawna odpowiedź: " + correct
+            result = f"Błąd! Poprawna odpowiedź: {correct}"
     
     return render_template('index.html', question=question, answered=answered, result=result)
 
