@@ -4,21 +4,19 @@ from flask import Flask, render_template, request
 
 app = Flask(__name__)
 
+closed = []
+question = {}
+def getQuestions(file):
+    with open(file, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    for question in data:
+        if question["type"] == "closed":
+            closed.append(question)
+
 @app.route('/mikro', methods=['GET', 'POST'])
 def index():
 
-    closed = []
-    question = {}
-    def getQuestions():
-
-        with open("data.json", "r", encoding="utf-8") as f:
-            data = json.load(f)
-
-        for question in data:
-            if question["type"] == "closed":
-                closed.append(question)
-
-    getQuestions()
+    getQuestions("data.json")
 
     if request.method == 'GET':
         result = ""
