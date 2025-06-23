@@ -13,10 +13,10 @@ def getQuestions(file):
         if question["type"] == "closed":
             closed.append(question)
 
+getQuestions("data.json")
+
 @app.route('/mikro', methods=['GET', 'POST'])
 def index():
-
-    getQuestions("data.json")
 
     if request.method == 'GET':
         result = ""
@@ -41,4 +41,4 @@ def index():
     return render_template('index.html', question=question, answered=answered, result=result)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)
