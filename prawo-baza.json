@@ -427,5 +427,445 @@
       "d": "Żadna odpowiedź nie jest poprawna"
     },
     "answer": "b"
+  },
+  {
+    "question": "Które zdania dotyczą fotografii naukowej?",
+    "type": "closed",
+    "options": {
+      "a": "Pozwala dostrzec relacje przestrzenne niewidoczne gołym okiem.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Może stanowić dzieło chronione prawem autorskim.",
+      "d": "Jest wykorzystywana w badaniach przyrodniczych."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Które elementy decydują o uznaniu fotografii za utwór chroniony prawem autorskim?",
+    "type": "closed",
+    "options": {
+      "a": "Świadomy wybór kadru i oświetlenia.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Zastosowanie efektów specjalnych lub niestandardowej perspektywy.",
+      "d": "Indywidualny charakter nadany przez twórcę."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Które stwierdzenia dotyczą wynalazków w prawie własności przemysłowej?",
+    "type": "closed",
+    "options": {
+      "a": "Muszą być nowe i nadawać się do przemysłowego stosowania.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Nie mogą być oczywiste dla znawcy danej dziedziny.",
+      "d": "Odkrycia naukowe nie są uznawane za wynalazki."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Które cechy muszą spełniać oznaczenia geograficzne, aby podlegały ochronie?",
+    "type": "closed",
+    "options": {
+      "a": "Muszą wskazywać na związek towaru z konkretnym regionem.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Towar musi mieć cechy wynikające z pochodzenia geograficznego.",
+      "d": "Oznaczenie musi być słowne (np. 'Koronki z Koniakowa')."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Które sytuacje prowadzą do odmowy rejestracji znaku towarowego?",
+    "type": "closed",
+    "options": {
+      "a": "Znak jest opisowy (np. 'dobre mleko').",
+      "b": "Wszystkie są poprawne.",
+      "c": "Znak zawiera godło Polski bez zgody władz.",
+      "d": "Znak wprowadza konsumentów w błąd co do pochodzenia towaru."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Co orzekł Urząd Praw Autorskich USA w sprawie selfie wykonanego przez małpę Naruto?",
+    "type": "closed",
+    "options": {
+      "a": "Zdjęcie podlega ochronie praw autorskich, ponieważ małpa jest inteligentna.",
+      "b": "Zdjęcie nie podlega ochronie, ponieważ prawa autorskie przysługują tylko dziełom stworzonym przez człowieka.",
+      "c": "Zdjęcie należy do fotografa, który udostępnił sprzęt.",
+      "d": "Zdjęcie jest własnością publiczną, ponieważ zostało wykonane w naturze."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Które z poniższych NIE jest uznawane za wynalazek według polskiego prawa?",
+    "type": "closed",
+    "options": {
+      "a": "Odkrycie naukowe.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Schemat prowadzenia działalności gospodarczej.",
+      "d": "Program komputerowy."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Który warunek musi spełniać wynalazek, aby uzyskać patent?",
+    "type": "closed",
+    "options": {
+      "a": "Musi być oparty na teorii naukowej.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Musi mieć poziom wynalazczy i nadawać się do przemysłowego stosowania.",
+      "d": "Musi być związany z dziedziną sztuki."
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Które z poniższych jest przykładem wzoru przemysłowego?",
+    "type": "closed",
+    "options": {
+      "a": "Nowy kształt mebla.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Odkrycie matematyczne.",
+      "d": "Metoda rozgrywania gry planszowej."
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Co jest przedmiotem ochrony topografii układów scalonych?",
+    "type": "closed",
+    "options": {
+      "a": "Sposób wytwarzania układu scalonego.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Przestrzenne rozplanowanie elementów i połączeń układu scalonego.",
+      "d": "Kolor obudowy układu scalonego."
+    },
+    "answer": "c"
+  },
+    {
+    "question": "Które z poniższych stwierdzeń dotyczą funkcji sądów w Polsce?",
+    "type": "closed",
+    "options": {
+      "a": "Sądy pełnią wyłącznie funkcję represyjną.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Sądy sprawują wymiar sprawiedliwości, rozstrzygając konflikty prawne.",
+      "d": "Sądy zajmują się wyłącznie sprawami cywilnymi."
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Które z poniższych są środkami zaskarżenia zwyczajnymi?",
+    "type": "closed",
+    "options": {
+      "a": "Apelacja, zażalenie, sprzeciw.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Kasacja i wznowienie postępowania.",
+      "d": "Wyłącznie kasacja."
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Które z poniższych stwierdzeń dotyczą zasady dwuinstancyjności postępowania?",
+    "type": "closed",
+    "options": {
+      "a": "Zasada ta oznacza, że każda sprawa musi być rozpatrzona przez co najmniej trzy sądy.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Zasada ta gwarantuje stronom prawo do odwołania się od orzeczenia sądu pierwszej instancji.",
+      "d": "Zasada ta dotyczy wyłącznie postępowania karnego."
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Które z poniższych sądów są zaliczane do sądów powszechnych?",
+    "type": "closed",
+    "options": {
+      "a": "Sądy rejonowe, okręgowe i apelacyjne.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Wyłącznie Sąd Najwyższy.",
+      "d": "Sądy wojskowe i administracyjne."
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Które z poniższych stwierdzeń dotyczą Sądu Najwyższego?",
+    "type": "closed",
+    "options": {
+      "a": "Sąd Najwyższy sprawuje nadzór nad działalnością sądów powszechnych i wojskowych.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Sąd Najwyższy rozpatruje skargi kasacyjne.",
+      "d": "Sąd Najwyższy jest sądem pierwszej instancji dla wszystkich spraw."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Które z poniższych są bezwzględnymi przyczynami odwoławczymi w postępowaniu karnym?",
+    "type": "closed",
+    "options": {
+      "a": "Niewłaściwe zastosowanie prawa materialnego.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Udział osoby nieuprawnionej w wydaniu orzeczenia.",
+      "d": "Błąd w ustaleniach faktycznych."
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Które z poniższych stwierdzeń dotyczą skargi kasacyjnej?",
+    "type": "closed",
+    "options": {
+      "a": "Skarga kasacyjna jest dopuszczalna we wszystkich sprawach cywilnych.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Skarga kasacyjna może być wniesiona tylko w sprawach, w których wartość przedmiotu zaskarżenia przekracza określoną kwotę.",
+      "d": "Skarga kasacyjna jest środkiem zaskarżenia zwyczajnym."
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Które z poniższych stwierdzeń dotyczą postępowania nakazowego?",
+    "type": "closed",
+    "options": {
+      "a": "Postępowanie nakazowe umożliwia szybkie rozpoznanie sprawy bez przeprowadzania rozprawy.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Postępowanie nakazowe jest dopuszczalne tylko w sprawach karnych.",
+      "d": "Postępowanie nakazowe wymaga zawsze zgody obu stron."
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Które z poniższych stwierdzeń dotyczą przedawnienia karalności?",
+    "type": "closed",
+    "options": {
+      "a": "Przedawnienie karalności skutkuje umorzeniem postępowania.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Przedawnienie karalności zależy wyłącznie od decyzji sądu.",
+      "d": "Przedawnienie karalności nie ma wpływu na postępowanie."
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Które z poniższych stwierdzeń dotyczą składu sądu w postępowaniu karnym?",
+    "type": "closed",
+    "options": {
+      "a": "W sprawach o zbrodnie sąd orzeka w składzie jednego sędziego i dwóch ławników.",
+      "b": "Wszystkie są poprawne.",
+      "c": "W postępowaniu apelacyjnym sąd orzeka w składzie trzech sędziów.",
+      "d": "Skład sądu zawsze musi być zgodny z wymogami ustawy."
+    },
+    "answer": "b"
+  },
+    {
+    "question": "Które z poniższych stwierdzeń dotyczą fotografii naukowej?",
+    "type": "closed",
+    "options": {
+      "a": "Jest to wyłącznie zdjęcie wykonane przez profesjonalistę.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Pozwala dostrzec relacje przestrzenne, które normalnie są niewidoczne.",
+      "d": "Nie podlega ochronie praw autorskich."
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Które z poniższych elementów decyduje o uznaniu fotografii za utwór chroniony prawem autorskim?",
+    "type": "closed",
+    "options": {
+      "a": "Wykonanie zdjęcia aparatem wysokiej klasy.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Świadomy wybór momentu, kompozycji i oświetlenia.",
+      "d": "Popularność fotografa w mediach społecznościowych."
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Co orzekł Urząd Praw Autorskich USA w sprawie selfie wykonanego przez małpę Naruto?",
+    "type": "closed",
+    "options": {
+      "a": "Zdjęcie podlega ochronie praw autorskich, ponieważ małpa jest inteligentna.",
+      "b": "Zdjęcie nie podlega ochronie, ponieważ prawa autorskie przysługują tylko dziełom stworzonym przez człowieka.",
+      "c": "Zdjęcie należy do fotografa, który udostępnił sprzęt.",
+      "d": "Zdjęcie jest własnością publiczną, ponieważ zostało wykonane w naturze."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Które z poniższych NIE jest uznawane za wynalazek według polskiego prawa?",
+    "type": "closed",
+    "options": {
+      "a": "Odkrycie naukowe.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Schemat prowadzenia działalności gospodarczej.",
+      "d": "Program komputerowy."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Który warunek musi spełniać wynalazek, aby uzyskać patent?",
+    "type": "closed",
+    "options": {
+      "a": "Musi być oparty na teorii naukowej.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Musi mieć poziom wynalazczy i nadawać się do przemysłowego stosowania.",
+      "d": "Musi być związany z dziedziną sztuki."
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Które z poniższych jest przykładem wzoru przemysłowego?",
+    "type": "closed",
+    "options": {
+      "a": "Nowy kształt mebla.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Odkrycie matematyczne.",
+      "d": "Metoda rozgrywania gry planszowej."
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Które oznaczenie geograficzne jest chronione prawem własności przemysłowej?",
+    "type": "closed",
+    "options": {
+      "a": "Nazwa kraju, np. 'Polska'.",
+      "b": "Oznaczenie wskazujące na pochodzenie towaru i jego szczególne cechy, np. 'Koronki z Koniakowa'.",
+      "c": "Symbol religijny.",
+      "d": "Nazwa firmy."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Które z poniższych jest bezwzględną przesłanką odmowy rejestracji znaku towarowego?",
+    "type": "closed",
+    "options": {
+      "a": "Znak jest podobny do wcześniej zarejestrowanego znaku.",
+      "b": "Znak zawiera godło Polski bez zgody właściwego organu.",
+      "c": "Znak jest używany od mniej niż roku.",
+      "d": "Znak jest przeznaczony wyłącznie na rynek lokalny."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Co jest przedmiotem ochrony topografii układów scalonych?",
+    "type": "closed",
+    "options": {
+      "a": "Sposób wytwarzania układu scalonego.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Przestrzenne rozplanowanie elementów i połączeń układu scalonego.",
+      "d": "Kolor obudowy układu scalonego."
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Które z poniższych stwierdzeń dotyczą utworów architektonicznych?",
+    "type": "closed",
+    "options": {
+      "a": "Ochronie podlega wyłącznie gotowy budynek, a nie projekt.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Ochronie podlega projekt architektoniczny, jeśli ma indywidualny i twórczy charakter.",
+      "d": "Projekty typowych budynków mieszkalnych zawsze podlegają ochronie."
+    },
+    "answer": "c"
+  },
+    {
+    "question": "Które z poniższych są źródłami prawa w Rzeczypospolitej Polskiej?",
+    "type": "closed",
+    "options": {
+      "a": "Konstytucja, ustawy, rozporządzenia.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Tylko akty prawa miejscowego.",
+      "d": "Wyłącznie orzeczenia sądowe."
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Które z poniższych umów są regulowane przez Kodeks cywilny?",
+    "type": "closed",
+    "options": {
+      "a": "Umowa zlecenia i umowa o dzieło.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Umowa sprzedaży i umowa dostawy.",
+      "d": "Umowa spółki z ograniczoną odpowiedzialnością."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Które z poniższych stwierdzeń dotyczą hierarchii źródeł prawa w Polsce?",
+    "type": "closed",
+    "options": {
+      "a": "Konstytucja jest najwyższym źródłem prawa.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Ustawy mają wyższą moc niż rozporządzenia.",
+      "d": "Akty prawa miejscowego są równorzędne z ustawami."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Która umowa dotyczy przeniesienia własności rzeczy bez wynagrodzenia?",
+    "type": "closed",
+    "options": {
+      "a": "Umowa sprzedaży.",
+      "b": "Umowa darowizny.",
+      "c": "Umowa najmu.",
+      "d": "Umowa zlecenia."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Które z poniższych umów dotyczą świadczenia usług?",
+    "type": "closed",
+    "options": {
+      "a": "Umowa zlecenia i umowa o dzieło.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Umowa przewozu i umowa spedycji.",
+      "d": "Umowa sprzedaży i umowa dostawy."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Która z poniższych umów jest regulowana przez Kodeks spółek handlowych?",
+    "type": "closed",
+    "options": {
+      "a": "Umowa sprzedaży.",
+      "b": "Umowa spółki z ograniczoną odpowiedzialnością.",
+      "c": "Umowa zlecenia.",
+      "d": "Umowa najmu."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Które z poniższych stwierdzeń dotyczą umowy agencyjnej?",
+    "type": "closed",
+    "options": {
+      "a": "Jest to umowa o świadczenie usług.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Regulowana jest przez Kodeks cywilny.",
+      "d": "Dotycząca reprezentowania przedsiębiorcy przez agenta."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Która z poniższych umów dotyczy czasowego korzystania z rzeczy za wynagrodzeniem?",
+    "type": "closed",
+    "options": {
+      "a": "Umowa najmu.",
+      "b": "Umowa sprzedaży.",
+      "c": "Umowa darowizny.",
+      "d": "Umowa zlecenia."
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Które z poniższych umów dotyczą zobowiązań pieniężnych?",
+    "type": "closed",
+    "options": {
+      "a": "Umowa pożyczki i umowa poręczenia.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Umowa rachunku bankowego.",
+      "d": "Umowa ubezpieczenia."
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Które z poniższych elementów są chronione prawem własności intelektualnej?",
+    "type": "closed",
+    "options": {
+      "a": "Wynalazki i wzory użytkowe.",
+      "b": "Wszystkie są poprawne.",
+      "c": "Znaki towarowe i oznaczenia geograficzne.",
+      "d": "Utwory literackie i artystyczne."
+    },
+    "answer": "b"
   }
 ]
