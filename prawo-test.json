@@ -1,0 +1,222 @@
+[
+  {
+    "question": "Wskaż zdanie prawdziwe:",
+    "type": "closed",
+    "options": {
+      "a": "Źródłem prawa sensu stricto są ustawy, rozporządzenia i wyroki Sądu Najwyższego",
+      "b": "Przedsiębiorcą jest każda spółka",
+      "c": "Zdolność do czynności prawnych to inaczej zdolność do bycia podmiotem praw i obowiązków",
+      "d": "Partnerami w spółce partnerskiej mogą być prokuratorzy"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Wykładnia prawa polega na:",
+    "type": "closed",
+    "options": {
+      "a": "Interpretacji normy prawnej z przepisu lub przepisów prawa",
+      "b": "Interpretacji przepisu prawa z normy lub norm prawnych",
+      "c": "Odnoszenie stanu faktycznego sprawy do stanu prawnego, inaczej jest nazywana subsumpcją",
+      "d": "Żadna odpowiedź nie jest poprawna"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Wskaż zdanie prawdziwe:",
+    "type": "closed",
+    "options": {
+      "a": "Minimalny kapitał zakładowy w spółce komandytowej wynosi 50.000PLN",
+      "b": "Minimalny kapitał zakładowy w spółce z ograniczoną odpowiedzialnością wynosi 100.000 PLN",
+      "c": "Roszczenia związane z prowadzeniem działalności gospodarczej przedawniają się z upływem 5 lat",
+      "d": "Żadna odpowiedź nie jest poprawna"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Zakup nieruchomości, która ma wchodzić w skład przedsiębiorstwa i stać się jego składnikiem materialnym służącym do prowadzenia działalności gospodarczej, musi nastąpić (pod rygorem nieważności) w formie:",
+    "type": "closed",
+    "options": {
+      "a": "Aktu notarialnego",
+      "b": "Pisemnej z podpisami notarialnie poświadczonymi",
+      "c": "Projektu aktu notarialnego",
+      "d": "Żadna odpowiedź nie jest poprawna"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Wskaż zdanie prawdziwe:",
+    "type": "closed",
+    "options": {
+      "a": "Firma każdej spółki z ograniczoną odpowiedzialnością jest ujawniana w Centralnej Ewidencji i Informacji o Działalności Gospodarczej",
+      "b": "Firma każdej spółki partnerskiej jest ujawniana w Monitorze Sądowym i Gospodarczym",
+      "c": "Firma osoby fizycznej prowadzącej działalność gospodarczą może co do zasady składać się jedynie z imienia i nazwiska; zgłoszenie następuje w Krajowym Rejestrze Przedsiębiorców",
+      "d": "Żadna odpowiedź nie jest poprawna"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Prowadzenie działalności gospodarczej polegającej na prowadzeniu apteki wymaga uzyskania:",
+    "type": "closed",
+    "options": {
+      "a": "Zezwolenia",
+      "b": "Licencji",
+      "c": "Koncesji",
+      "d": "Żadna odpowiedź nie jest poprawna"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Czy wspólnik (partner) w spółce partnerskiej może być ograniczony w prawie reprezentowania spółki wobec osób trzecich?",
+    "type": "closed",
+    "options": {
+      "a": "Tak, ale tylko w drodze jednomyślnej uchwały pozostałych partnerów",
+      "b": "Nie",
+      "c": "Nie, chyba, że został uprzedzony o tym fakte na co najmniej 7 dni przed rzeczonym ograniczeniem",
+      "d": "Tak, lecz taka możliwość musi wynikać z umowy spółki"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Umowa spółki jawnej jest zawierana w:",
+    "type": "closed",
+    "options": {
+      "a": "Zwyklej formie pisemnej",
+      "b": "Zwyklej formie pisemnej lub formie ustnej w obecności dwóch świadków",
+      "c": "Formie aktu notarialnego",
+      "d": "Wszystkie odpowiedzi są poprawne"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Wskaż spółkę kapitałową:",
+    "type": "closed",
+    "options": {
+      "a": "Jawna",
+      "b": "Komandytowa",
+      "c": "Z ograniczoną odpowiedzialnością",
+      "d": "Komandytowo-akcyjna"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Sprawy bieżące związane z funkcjonowaniem spółki w spółce z ograniczoną odpowiedzialnością prowadzi:",
+    "type": "closed",
+    "options": {
+      "a": "Zarząd",
+      "b": "Rada nadzorcza, jeśli została ustanowiona",
+      "c": "Zgromadzenie wspólników",
+      "d": "Żadna odpowiedź nie jest poprawna"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "W drodze umowy cywilno-prawnej można uregulować:",
+    "type": "closed",
+    "options": {
+      "a": "Każdą sytuację cywilną zachodzącą między stronami",
+      "b": "Wysokość zadośćuczynienia za doznane krzywdy w związku z niewykonaniem umowy przez jedną ze stron dla osoby trzeciej",
+      "c": "Za jakie sytuacje, będące następstwem wystąpienia siły wyższej, strona nie ponosi odpowiedzialności",
+      "d": "Żadna odpowiedź nie jest poprawna"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Zasada swobody umów upoważnia do:",
+    "type": "closed",
+    "options": {
+      "a": "Zawierania umów na takich zasadach jakie strony wskażą, o ile nie wykracza to poza obowiązujące przepisy oraz zasady współżycia społecznego",
+      "b": "Swobodnego kształtowania zapisów umowy, o ile jest to zgodne z wolą stron",
+      "c": "Kształtowania zapisów umowy swobodnie jedynie w zakresie przedmiotu umowy",
+      "d": "Żadna odpowiedź nie jest poprawna"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Wymiar sprawiedliwości w Polsce sprawują:",
+    "type": "closed",
+    "options": {
+      "a": "Sądy powszechne, sądy wojskowe i sądy administracyjne",
+      "b": "Sądy powszechne, sądy wojskowe, sądy administracyjne i Sąd Najwyższy",
+      "c": "Sądy powszechne i sądy wojskowe",
+      "d": "Żadna odpowiedź nie jest poprawna"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Adam Kowalski spowodował kolizję w ruchu lądowym, w wyniku której osoba trzecia odniosła obrażenia ciała trwające powyżej 7 dni. Sądem właściwym do oceny zachowania sprawcy będzie:",
+    "type": "closed",
+    "options": {
+      "a": "Sąd Powszechny – wydział cywilny",
+      "b": "Sąd powszechny – wydział karny",
+      "c": "Sąd wojskowy",
+      "d": "Żadna odpowiedź nie jest poprawna"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Adam Kowalski został skazany za przestępstwo spowodowania średniego uszczerbku na zdrowiu w związku z kolizją w ruchu lądowym, której był sprawcą i za ten czyn został skazany na 3 lata pozbawienia wolności w zawieszeniu na 3 lata. Adam Kowalski uważa, że jego wina nie została udowodniona. Jakie kroki może dalej podjąć?",
+    "type": "closed",
+    "options": {
+      "a": "Może wnieść apelację od wyroku sądu II instancji, o ile wyrok nie stał się prawomocny",
+      "b": "Może wnieść apelację od wyroku do Sądu Najwyższego",
+      "c": "Może wnieść apelację, nawet jeśli wyrok stał się prawomocny",
+      "d": "Żadna odpowiedź nie jest poprawna"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Do praw autorskich zaliczymy w szczególności:",
+    "type": "closed",
+    "options": {
+      "a": "Utwory fotograficzne, plastyczne, lutnicze i znaki towarowe",
+      "b": "Utwory muzyczne, słowno-muzyczne i urbanistyczne",
+      "c": "Znaki towarowe, wzornictwo przemysłowe i utwory topograficzne",
+      "d": "Żadna odpowiedź nie jest poprawna"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Adam Kowalski jest programistą zatrudnionym na umowę o pracę w IT_City_Group S.A. od 1.03.2021 r. na stanowisku senior developera. W tym czasie opracował aplikację, która istotnie wsparła rozpoznawalność spółki na rynku. Czy w przedstawionym stanie faktycznym Adam Kowalski będzie korzystał z jakiejkolwiek ochrony prawnej do stworzonej przez siebie aplikacji?",
+    "type": "closed",
+    "options": {
+      "a": "Nie, ponieważ jest zatrudniony na umowę o pracę, więc wszystkie prawa przechodzą na pracodawcę",
+      "b": "Tak, ponieważ autor zachowuje prawa autorskie do programów komputerowych nawet, jeśli jest zatrudniony na umowę o pracę",
+      "c": "Nie, ponieważ nie jest niezależnym przedsiębiorcą, a więc podmiotem, który w obrocie gospodarczym dysponowałby prawami autorskimi do programu komputerowego",
+      "d": "Żadna odpowiedź nie jest poprawna"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Adrian Dudziak skonstruował urządzenie składające się z kolumny zawierającej zbiornik na wodę, wspartej na podstawie, w której umieszczony jest aparat grzewczy, lejkowatego pojemnika na filtr oraz dzbanka na napar charakteryzujące się tym, że lejkowaty pojemnik na filtr umieszczony jest na dzbanku na napar i nakryty pokrywką. Lejkowaty pojemnik posiada dwa otworki przelewowe, usytuowane asymetrycznie, jeden w dnie pojemnika, a drugi na jego bocznej ściance. Lejkowaty pojemnik posiada kołnierz. Wlot wody surowej (17) jest przykryty uchylną klapką. Adrian Dudziak może starać się o ochronę:",
+    "type": "closed",
+    "options": {
+      "a": "Wzoru przemysłowego",
+      "b": "Wzoru użytkowego",
+      "c": "Topografii układu scalonego",
+      "d": "Żadna odpowiedź nie jest poprawna"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Wzory użytkowe mogą, w niektórych przypadkach, korzystać z ochrony prawnej przewidzianej dla:",
+    "type": "closed",
+    "options": {
+      "a": "Wynalazków",
+      "b": "Utworów słowno-muzycznych",
+      "c": "Znaków towarowych",
+      "d": "Żadna odpowiedź nie jest poprawna"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "Znak towarowy może być zastrzeżony:",
+    "type": "closed",
+    "options": {
+      "a": "Jeśli nikt inny nie korzysta z ochrony prawnej przyznanej dla tego znaku (co do zasady)",
+      "b": "Jeśli ma cechy odróżniające",
+      "c": "Jeśli może zostać przedstawiony w rejestrze znaków towarowych Urzędu Patentowego RP",
+      "d": "Wszystkie odpowiedzi są poprawne"
+    },
+    "answer": "d"
+  }
+]

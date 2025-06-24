@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>Wybierz quiz</title>
+</head>
+<body>
+    <form method="POST">
+        <div><h2>Wybierz test</h2></div>
+
+        <label class="option-label">
+            <input type="radio" name="quiz" value="mikro" class="visually-hidden" onchange="this.form.submit()">
+            <div class="option">Mikroekonomia</div>
+        </label>
+
+        <label class="option-label">
+            <input type="radio" name="quiz" value="prawo_baza" class="visually-hidden" onchange="this.form.submit()">
+            <div class="option">Prawo (baza pytań)</div>
+        </label>
+
+        <label class="option-label">
+            <input type="radio" name="quiz" value="prawo_test" class="visually-hidden" onchange="this.form.submit()">
+            <div class="option">Prawo (test z 1 terminu)</div>
+        </label>
+
+    </form>
+</body>
+</html>
