@@ -8,8 +8,7 @@
       "c": "Zdolność do czynności prawnych to inaczej zdolność do bycia podmiotem praw i obowiązków",
       "d": "Partnerami w spółce partnerskiej mogą być prokuratorzy"
     },
-    "answer": "d",
-    "explanation": "Odpowiedź d jest poprawna, ponieważ art. 88 § 1 k.s.h. wyraźnie wskazuje, że partnerami w spółce partnerskiej mogą być osoby wykonujące wolny zawód, w tym prokuratorzy. Pozostałe odpowiedzi są błędne: a) wyroki SN nie są źródłem prawa sensu stricto, b) nie każda spółka jest przedsiębiorcą, c) zdolność do czynności prawnych to możliwość nabywania praw i zobowiązań, a nie bycia podmiotem praw (to zdolność prawna)."
+    "answer": "d"
   },
   {
     "question": "Wykładnia prawa polega na:",
@@ -20,8 +19,7 @@
       "c": "Odnoszenie stanu faktycznego sprawy do stanu prawnego, inaczej jest nazywana subsumpcją",
       "d": "Żadna odpowiedź nie jest poprawna"
     },
-    "answer": "a",
-    "explanation": "Odpowiedź a jest poprawna, ponieważ wykładnia prawa to właśnie interpretacja norm prawnych zawartych w przepisach prawa. Odpowiedź b jest odwrotnością poprawnej definicji. Odpowiedź c opisuje subsumpcję, która jest odrębnym pojęciem od wykładni."
+    "answer": "a"
   },
   {
     "question": "Wskaż zdanie prawdziwe:",
@@ -32,8 +30,7 @@
       "c": "Roszczenia związane z prowadzeniem działalności gospodarczej przedawniają się z upływem 5 lat",
       "d": "Żadna odpowiedź nie jest poprawna"
     },
-    "answer": "d",
-    "explanation": "Odpowiedź d jest poprawna, ponieważ: a) spółka komandytowa nie ma minimalnego kapitału, b) minimalny kapitał w sp. z o.o. to 5.000 zł, c) roszczenia przedawniają się po 3 latach (art. 118 k.c.)."
+    "answer": "d"
   },
   {
     "question": "Zakup nieruchomości, która ma wchodzić w skład przedsiębiorstwa i stać się jego składnikiem materialnym służącym do prowadzenia działalności gospodarczej, musi nastąpić (pod rygorem nieważności) w formie:",
@@ -44,8 +41,7 @@
       "c": "Projektu aktu notarialnego",
       "d": "Żadna odpowiedź nie jest poprawna"
     },
-    "answer": "a",
-    "explanation": "Odpowiedź a jest poprawna, ponieważ art. 158 k.c. wymaga formy aktu notarialnego dla umowy zobowiązującej do przeniesienia własności nieruchomości. Dotyczy to także nieruchomości wchodzących w skład przedsiębiorstwa."
+    "answer": "a"
   },
   {
     "question": "Wskaż zdanie prawdziwe:",
@@ -56,8 +52,7 @@
       "c": "Firma osoby fizycznej prowadzącej działalność gospodarczą może co do zasady składać się jedynie z imienia i nazwiska; zgłoszenie następuje w Krajowym Rejestrze Przedsiębiorców",
       "d": "Żadna odpowiedź nie jest poprawna"
     },
-    "answer": "d",
-    "explanation": "Odpowiedź d jest poprawna, ponieważ: a) firma sp. z o.o. jest ujawniana w KRS, nie w CEIDG, b) firma spółki partnerskiej jest ujawniana w KRS, c) firma osoby fizycznej jest zgłaszana do CEIDG, a nie KRS."
+    "answer": "d"
   },
   {
     "question": "Prowadzenie działalności gospodarczej polegającej na prowadzeniu apteki wymaga uzyskania:",
@@ -68,8 +63,7 @@
       "c": "Koncesji",
       "d": "Żadna odpowiedź nie jest poprawna"
     },
-    "answer": "a",
-    "explanation": "Odpowiedź a jest poprawna, ponieważ zgodnie z ustawą Prawo farmaceutyczne, prowadzenie apteki wymaga uzyskania zezwolenia (art. 99). Koncesje i licencje dotyczą innych rodzajów działalności."
+    "answer": "a"
   },
   {
     "question": "Czy wspólnik (partner) w spółce partnerskiej może być ograniczony w prawie reprezentowania spółki wobec osób trzecich?",
@@ -80,8 +74,7 @@
       "c": "Nie, chyba, że został uprzedzony o tym fakte na co najmniej 7 dni przed rzeczonym ograniczeniem",
       "d": "Tak, lecz taka możliwość musi wynikać z umowy spółki"
     },
-    "answer": "a",
-    "explanation": "Odpowiedź a jest poprawna, ponieważ art. 93 § 2 k.s.h. stanowi, że ograniczenie prawa reprezentacji partnera wymaga jednomyślnej uchwały pozostałych partnerów. Nie może to wynikać z umowy spółki (odpowiedź d jest błędna)."
+    "answer": "a"
   },
   {
     "question": "Umowa spółki jawnej jest zawierana w:",
@@ -92,8 +85,7 @@
       "c": "Formie aktu notarialnego",
       "d": "Wszystkie odpowiedzi są poprawne"
     },
-    "answer": "a",
-    "explanation": "Odpowiedź a jest poprawna, ponieważ art. 22 k.s.h. wymaga dla umowy spółki jawnej jedynie zwykłej formy pisemnej pod rygorem nieważności. Forma ustna (nawet ze świadkami) ani akt notarialny nie są wymagane."
+    "answer": "a"
   },
   {
     "question": "Wskaż spółkę kapitałową:",
@@ -104,8 +96,7 @@
       "c": "Z ograniczoną odpowiedzialnością",
       "d": "Komandytowo-akcyjna"
     },
-    "answer": "c",
-    "explanation": "Odpowiedź c jest poprawna, ponieważ tylko spółka z o.o. jest typową spółką kapitałową. Spółka jawna i komandytowa to spółki osobowe, a komandytowo-akcyjna ma charakter mieszany."
+    "answer": "c"
   },
   {
     "question": "Sprawy bieżące związane z funkcjonowaniem spółki w spółce z ograniczoną odpowiedzialnością prowadzi:",
@@ -116,8 +107,7 @@
       "c": "Zgromadzenie wspólników",
       "d": "Żadna odpowiedź nie jest poprawna"
     },
-    "answer": "a",
-    "explanation": "Odpowiedź a jest poprawna, ponieważ zgodnie z art. 201 k.s.h. to zarząd prowadzi sprawy spółki i reprezentuje spółkę. Rada nadzorcza pełni funkcję kontrolną, a zgromadzenie wspólników podejmuje najważniejsze decyzje."
+    "answer": "a"
   },
   {
     "question": "W drodze umowy cywilno-prawnej można uregulować:",
@@ -128,8 +118,7 @@
       "c": "Za jakie sytuacje, będące następstwem wystąpienia siły wyższej, strona nie ponosi odpowiedzialności",
       "d": "Żadna odpowiedź nie jest poprawna"
     },
-    "answer": "c",
-    "explanation": "Odpowiedź c jest poprawna, ponieważ strony mogą w umowie określić przypadki siły wyższej (art. 495 k.c.). Odpowiedź a jest zbyt szeroka (nie wszystkie sytuacje można regulować umową), a b - błędna (nie można ustalać zadośćuczynienia dla osób trzecich)."
+    "answer": "c"
   },
   {
     "question": "Zasada swobody umów upoważnia do:",
@@ -140,8 +129,7 @@
       "c": "Kształtowania zapisów umowy swobodnie jedynie w zakresie przedmiotu umowy",
       "d": "Żadna odpowiedź nie jest poprawna"
     },
-    "answer": "a",
-    "explanation": "Odpowiedź a jest poprawna, ponieważ art. 353¹ k.c. stanowi, że strony mogą ułożyć stosunek prawny według swego uznania, byleby treść lub cel umowy nie sprzeciwiały się właściwości (naturze) stosunku, ustawie ani zasadom współżycia społecznego."
+    "answer": "a"
   },
   {
     "question": "Wymiar sprawiedliwości w Polsce sprawują:",
@@ -152,8 +140,7 @@
       "c": "Sądy powszechne i sądy wojskowe",
       "d": "Żadna odpowiedź nie jest poprawna"
     },
-    "answer": "b",
-    "explanation": "Odpowiedź b jest poprawna, ponieważ zgodnie z art. 175 Konstytucji RP wymiar sprawiedliwości sprawują: Sąd Najwyższy, sądy powszechne, sądy administracyjne oraz sądy wojskowe."
+    "answer": "b"
   },
   {
     "question": "Adam Kowalski spowodował kolizję w ruchu lądowym, w wyniku której osoba trzecia odniosła obrażenia ciała trwające powyżej 7 dni. Sądem właściwym do oceny zachowania sprawcy będzie:",
@@ -164,8 +151,7 @@
       "c": "Sąd wojskowy",
       "d": "Żadna odpowiedź nie jest poprawna"
     },
-    "answer": "b",
-    "explanation": "Odpowiedź b jest poprawna, ponieważ spowodowanie obrażeń powyżej 7 dni to przestępstwo z art. 177 k.k., które podlega rozpoznaniu przez wydział karny sądu powszechnego. Sąd wojskowy nie jest właściwy (chyba że sprawca jest żołnierzem)."
+    "answer": "b"
   },
   {
     "question": "Adam Kowalski został skazany za przestępstwo spowodowania średniego uszczerbku na zdrowiu w związku z kolizją w ruchu lądowym, której był sprawcą i za ten czyn został skazany na 3 lata pozbawienia wolności w zawieszeniu na 3 lata. Adam Kowalski uważa, że jego wina nie została udowodniona. Jakie kroki może dalej podjąć?",
@@ -176,8 +162,7 @@
       "c": "Może wnieść apelację, nawet jeśli wyrok stał się prawomocny",
       "d": "Żadna odpowiedź nie jest poprawna"
     },
-    "answer": "a",
-    "explanation": "Odpowiedź a jest poprawna, ponieważ od wyroku sądu pierwszej instancji przysługuje apelacja do sądu drugiej instancji (art. 523 k.p.k.), ale tylko do czasu uprawomocnienia się wyroku. Sąd Najwyższy rozpoznaje tylko skargi kasacyjne od prawomocnych wyroków."
+    "answer": "a"
   },
   {
     "question": "Do praw autorskich zaliczymy w szczególności:",
@@ -188,8 +173,7 @@
       "c": "Znaki towarowe, wzornictwo przemysłowe i utwory topograficzne",
       "d": "Żadna odpowiedź nie jest poprawna"
     },
-    "answer": "b",
-    "explanation": "Odpowiedź b jest poprawna, ponieważ art. 1 ustawy o prawie autorskim wymienia jako przykłady utworów m.in. muzyczne, słowno-muzyczne i urbanistyczne. Znaki towarowe i wzornictwo przemysłowe chronione są innymi przepisami."
+    "answer": "b"
   },
   {
     "question": "Adam Kowalski jest programistą zatrudnionym na umowę o pracę w IT_City_Group S.A. od 1.03.2021 r. na stanowisku senior developera. W tym czasie opracował aplikację, która istotnie wsparła rozpoznawalność spółki na rynku. Czy w przedstawionym stanie faktycznym Adam Kowalski będzie korzystał z jakiejkolwiek ochrony prawnej do stworzonej przez siebie aplikacji?",
@@ -200,8 +184,7 @@
       "c": "Nie, ponieważ nie jest niezależnym przedsiębiorcą, a więc podmiotem, który w obrocie gospodarczym dysponowałby prawami autorskimi do programu komputerowego",
       "d": "Żadna odpowiedź nie jest poprawna"
     },
-    "answer": "b",
-    "explanation": "Odpowiedź b jest poprawna, ponieważ zgodnie z art. 74 ust. 3 ustawy o prawie autorskim, pracownik zachowuje autorskie prawa osobiste do programu komputerowego stworzonego w ramach stosunku pracy. Pracodawca nabywa jedynie autorskie prawa majątkowe."
+    "answer": "b"
   },
   {
     "question": "Adrian Dudziak skonstruował urządzenie składające się z kolumny zawierającej zbiornik na wodę, wspartej na podstawie, w której umieszczony jest aparat grzewczy, lejkowatego pojemnika na filtr oraz dzbanka na napar charakteryzujące się tym, że lejkowaty pojemnik na filtr umieszczony jest na dzbanku na napar i nakryty pokrywką. Lejkowaty pojemnik posiada dwa otworki przelewowe, usytuowane asymetrycznie, jeden w dnie pojemnika, a drugi na jego bocznej ściance. Lejkowaty pojemnik posiada kołnierz. Wlot wody surowej (17) jest przykryty uchylną klapką. Adrian Dudziak może starać się o ochronę:",
@@ -212,8 +195,7 @@
       "c": "Topografii układu scalonego",
       "d": "Żadna odpowiedź nie jest poprawna"
     },
-    "answer": "b",
-    "explanation": "Odpowiedź b jest poprawna, ponieważ opisane urządzenie ma charakter użytkowy (nowe rozwiązanie o charakterze technicznym, dotyczące kształtu, budowy lub zestawienia przedmiotu o trwałej postaci). Wzór przemysłowy chroniłby wygląd zewnętrzny, a nie rozwiązanie techniczne."
+    "answer": "b"
   },
   {
     "question": "Wzory użytkowe mogą, w niektórych przypadkach, korzystać z ochrony prawnej przewidzianej dla:",
@@ -224,8 +206,7 @@
       "c": "Znaków towarowych",
       "d": "Żadna odpowiedź nie jest poprawna"
     },
-    "answer": "d",
-    "explanation": "Odpowiedź d jest poprawna, ponieważ wzory użytkowe są odrębną kategorią przedmiotów prawa własności przemysłowej i nie korzystają z ochrony przewidzianej dla wynalazków, utworów ani znaków towarowych. Mają własny reżim prawny."
+    "answer": "d"
   },
   {
     "question": "Znak towarowy może być zastrzeżony:",
@@ -236,7 +217,6 @@
       "c": "Jeśli może zostać przedstawiony w rejestrze znaków towarowych Urzędu Patentowego RP",
       "d": "Wszystkie odpowiedzi są poprawne"
     },
-    "answer": "d",
-    "explanation": "Odpowiedź d jest poprawna, ponieważ wszystkie warunki wymienione w odpowiedziach a-c są wymagane do zastrzeżenia znaku towarowego zgodnie z ustawą Prawo własności przemysłowej (art. 129-12910). Znak musi być m.in. dostępny (niezastrzeżony przez innych), posiadać zdolność odróżniającą i nadawać się do przedstawienia w rejestrze."
+    "answer": "d"
   }
 ]

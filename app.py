@@ -7,6 +7,7 @@ app.secret_key = "b0d9cbf5d8afe95b7d45fa08cd61d2fc4c94c2b443c5734710f1f42a340ad3
 
 closed = []
 question = {}
+
 def getQuestions(file):
     closed.clear()
     with open(file, "r", encoding="utf-8") as f:
@@ -49,6 +50,7 @@ def prawo_test():
     getQuestions("prawo-test.json")
     if request.method == 'GET':
         result = ""
+        explanation = ""
         answered = False
         question = random.choice(closed)
         session["question"] = question
@@ -58,12 +60,13 @@ def prawo_test():
         answer = request.form.get('answer')
         question = session.get("question")
         correct = question["answer"]
+        explanation = question["explanation"]
         if answer == correct:
             result = "Poprawna odpowiedz!"
         else:
             result = f"Błąd! Poprawna odpowiedź: {correct}"
     
-    return render_template('index.html', question=question, answered=answered, result=result)
+    return render_template('test.html', question=question, answered=answered, result=result, explanation=explanation)
 
 @app.route('/prawo/baza', methods=['GET', 'POST'])
 def prawo_baza():
